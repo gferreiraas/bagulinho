@@ -5,4 +5,4 @@ function verificarVogal(letra) {
         return false;
     }
 }
-console.log(verificarVogal('p'));
+console.log(verificarVogal('g'));
